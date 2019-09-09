@@ -1,0 +1,11 @@
+woodsdbuser
+
+b.83XWFInVlE6v.satTBqUfv7hmpAJh
+
+ bolt://hobby-aopkkeipgodegbkeafjckmdl.dbs.graphenedb.com:24787
+https://hobby-aopkkeipgodegbkeafjckmdl.dbs.graphenedb.com:24780/db/data/
+
+
+import { Neo4jDB } from 'meteor/ostrio:neo4jdriver';
+
+const db = new Neo4jDB('http://v303:GtGq5rldxu@hobby-geefdaeefcom.dbs.graphenedb.com:24789');

@@ -1,0 +1,9 @@
+To recreate
+
+meteor create --react <project name>
+npm install --save react-helmet
+meteor add ostrio:neo4jdriver
+npm install node-mailjet
+meteor npm install --save styled-components
+meteor remove autopublish
+
